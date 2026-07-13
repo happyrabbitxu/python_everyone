@@ -35,7 +35,7 @@ Received: (from apache@localhost)
 Date: Sat, 5 Jan 2008 09:12:18 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
 To: source@collab.sakaiproject.org
-From: stephen.marquard@uct.ac.za
+From: stephen.marquard@uct.ac.za this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39772 - content/branches/sakai_2-5-x/content-impl/impl/src/java/org/sakaiproject/content/impl
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -100,7 +100,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 18:08:57 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to louis@media.berkeley.edu using -f
 To: source@collab.sakaiproject.org
-From: louis@media.berkeley.edu
+From: louis@media.berkeley.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39771 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle java/org/sakaiproject/site/tool
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -165,7 +165,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 16:09:02 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to zqian@umich.edu using -f
 To: source@collab.sakaiproject.org
-From: zqian@umich.edu
+From: zqian@umich.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39770 - site-manage/branches/sakai_2-5-x/site-manage-tool/tool/src/webapp/vm/sitesetup
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -229,7 +229,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 15:44:40 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to rjlowe@iupui.edu using -f
 To: source@collab.sakaiproject.org
-From: rjlowe@iupui.edu
+From: rjlowe@iupui.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39769 - in gradebook/trunk/app/ui/src: java/org/sakaiproject/tool/gradebook/ui/helpers/beans java/org/sakaiproject/tool/gradebook/ui/helpers/producers webapp/WEB-INF webapp/WEB-INF/bundle
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -297,7 +297,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 15:01:38 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to zqian@umich.edu using -f
 To: source@collab.sakaiproject.org
-From: zqian@umich.edu
+From: zqian@umich.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39766 - site-manage/branches/sakai_2-4-x/site-manage-tool/tool/src/java/org/sakaiproject/site/tool
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -370,7 +370,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 14:48:39 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to rjlowe@iupui.edu using -f
 To: source@collab.sakaiproject.org
-From: rjlowe@iupui.edu
+From: rjlowe@iupui.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39765 - in gradebook/trunk/app: business/src/java/org/sakaiproject/tool/gradebook/business business/src/java/org/sakaiproject/tool/gradebook/business/impl ui ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/beans ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/entity ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/params ui/src/java/org/sakaiproject/tool/gradebook/ui/helpers/producers ui/src/webapp/WEB-INF ui/src/webapp/WEB-INF/bundle ui/src/webapp/content/templates
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -449,7 +449,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 11:35:26 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to cwen@iupui.edu using -f
 To: source@collab.sakaiproject.org
-From: cwen@iupui.edu
+From: cwen@iupui.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39764 - in msgcntr/trunk/messageforums-app/src/java/org/sakaiproject/tool/messageforums: . ui
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -528,7 +528,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 11:33:06 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to cwen@iupui.edu using -f
 To: source@collab.sakaiproject.org
-From: cwen@iupui.edu
+From: cwen@iupui.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39763 - in msgcntr/trunk: messageforums-api/src/bundle/org/sakaiproject/api/app/messagecenter/bundle messageforums-app/src/java/org/sakaiproject/tool/messageforums
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -607,7 +607,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 11:11:01 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to gsilver@umich.edu using -f
 To: source@collab.sakaiproject.org
-From: gsilver@umich.edu
+From: gsilver@umich.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39762 - web/trunk/web-tool/tool/src/bundle
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -673,7 +673,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 11:10:05 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to gsilver@umich.edu using -f
 To: source@collab.sakaiproject.org
-From: gsilver@umich.edu
+From: gsilver@umich.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39761 - site/trunk/site-tool/tool/src/bundle
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -739,7 +739,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 11:09:14 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to zqian@umich.edu using -f
 To: source@collab.sakaiproject.org
-From: zqian@umich.edu
+From: zqian@umich.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39760 - in site-manage/trunk/site-manage-tool/tool/src: java/org/sakaiproject/site/tool webapp/vm/sitesetup
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -804,7 +804,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 11:08:39 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to gsilver@umich.edu using -f
 To: source@collab.sakaiproject.org
-From: gsilver@umich.edu
+From: gsilver@umich.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39759 - mailarchive/trunk/mailarchive-tool/tool/src/bundle
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -870,7 +870,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 10:37:06 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to wagnermr@iupui.edu using -f
 To: source@collab.sakaiproject.org
-From: wagnermr@iupui.edu
+From: wagnermr@iupui.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39758 - in gradebook/trunk: app/business/src/java/org/sakaiproject/tool/gradebook/business/impl service/api/src/java/org/sakaiproject/service/gradebook/shared service/impl/src/java/org/sakaiproject/component/gradebook
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -939,7 +939,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 10:15:57 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to zqian@umich.edu using -f
 To: source@collab.sakaiproject.org
-From: zqian@umich.edu
+From: zqian@umich.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39757 - in assignment/trunk: assignment-impl/impl/src/java/org/sakaiproject/assignment/impl assignment-tool/tool/src/webapp/vm/assignment
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1004,7 +1004,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 10:02:01 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to antranig@caret.cam.ac.uk using -f
 To: source@collab.sakaiproject.org
-From: antranig@caret.cam.ac.uk
+From: antranig@caret.cam.ac.uk this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39756 - in component/branches/SAK-12166/component-api/component/src/java/org/sakaiproject/component: impl impl/spring/support impl/spring/support/dynamic impl/support util
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1081,7 +1081,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 09:03:51 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to gopal.ramasammycook@gmail.com using -f
 To: source@collab.sakaiproject.org
-From: gopal.ramasammycook@gmail.com
+From: gopal.ramasammycook@gmail.com this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39755 - in sam/branches/SAK-12065: samigo-api/src/java/org/sakaiproject/tool/assessment/shared/api/grading samigo-app/src/java/org/sakaiproject/tool/assessment/ui/bean/evaluation samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/evaluation samigo-services/src/java/org/sakaiproject/tool/assessment/facade samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/ifc samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/integrated samigo-services/src/java/org/sakaiproject/tool/assessment/integration/helper/standalone samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/grading
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1155,7 +1155,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 07:00:42 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 To: source@collab.sakaiproject.org
-From: david.horwitz@uct.ac.za
+From: david.horwitz@uct.ac.za this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39754 - in polls/branches/sakai_2-5-x: . tool tool/src/java/org/sakaiproject/poll/tool tool/src/java/org/sakaiproject/poll/tool/evolvers tool/src/webapp/WEB-INF
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1241,7 +1241,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 06:06:47 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 To: source@collab.sakaiproject.org
-From: david.horwitz@uct.ac.za
+From: david.horwitz@uct.ac.za this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39753 - in polls/trunk: . tool tool/src/java/org/sakaiproject/poll/tool tool/src/java/org/sakaiproject/poll/tool/evolvers tool/src/webapp/WEB-INF
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1310,7 +1310,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 04:47:30 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 To: source@collab.sakaiproject.org
-From: david.horwitz@uct.ac.za
+From: david.horwitz@uct.ac.za this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39752 - in podcasts/branches/sakai_2-5-x/podcasts-app/src/webapp: css podcasts
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1388,7 +1388,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 04:32:02 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to david.horwitz@uct.ac.za using -f
 To: source@collab.sakaiproject.org
-From: david.horwitz@uct.ac.za
+From: david.horwitz@uct.ac.za this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39751 - in podcasts/branches/sakai_2-5-x/podcasts-app/src/webapp: css images podcasts
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1474,7 +1474,7 @@ Received: (from apache@localhost)
 Date: Fri, 4 Jan 2008 04:05:53 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to stephen.marquard@uct.ac.za using -f
 To: source@collab.sakaiproject.org
-From: stephen.marquard@uct.ac.za
+From: stephen.marquard@uct.ac.za this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39750 - event/branches/SAK-6216/event-util/util/src/java/org/sakaiproject/util
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1538,7 +1538,7 @@ Received: (from apache@localhost)
 Date: Thu, 3 Jan 2008 19:23:51 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to louis@media.berkeley.edu using -f
 To: source@collab.sakaiproject.org
-From: louis@media.berkeley.edu
+From: louis@media.berkeley.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39749 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle webapp/vm/sitesetup
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1603,7 +1603,7 @@ Received: (from apache@localhost)
 Date: Thu, 3 Jan 2008 17:16:43 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to louis@media.berkeley.edu using -f
 To: source@collab.sakaiproject.org
-From: louis@media.berkeley.edu
+From: louis@media.berkeley.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39746 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle webapp/vm/sitesetup
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1668,7 +1668,7 @@ Received: (from apache@localhost)
 Date: Thu, 3 Jan 2008 17:05:14 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to ray@media.berkeley.edu using -f
 To: source@collab.sakaiproject.org
-From: ray@media.berkeley.edu
+From: ray@media.berkeley.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39745 - providers/trunk/cm/cm-authz-provider/src/java/org/sakaiproject/coursemanagement/impl/provider
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1732,7 +1732,7 @@ Received: (from apache@localhost)
 Date: Thu, 3 Jan 2008 16:33:03 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to cwen@iupui.edu using -f
 To: source@collab.sakaiproject.org
-From: cwen@iupui.edu
+From: cwen@iupui.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39744 - oncourse/branches/oncourse_OPC_122007
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1797,7 +1797,7 @@ Received: (from apache@localhost)
 Date: Thu, 3 Jan 2008 16:27:30 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to cwen@iupui.edu using -f
 To: source@collab.sakaiproject.org
-From: cwen@iupui.edu
+From: cwen@iupui.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39743 - gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
@@ -1872,7 +1872,7 @@ Received: (from apache@localhost)
 Date: Thu, 3 Jan 2008 16:22:15 -0500
 X-Authentication-Warning: nakamura.uits.iupui.edu: apache set sender to cwen@iupui.edu using -f
 To: source@collab.sakaiproject.org
-From: cwen@iupui.edu
+From: cwen@iupui.edu this line do not have other thing in ch8-8 there will be an error
 Subject: [sakai] svn commit: r39742 - gradebook/branches/oncourse_2-4-2/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
 X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
 X-Content-Type-Message-Body: text/plain; charset=UTF-8
