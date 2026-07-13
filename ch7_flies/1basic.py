@@ -5,7 +5,7 @@
 
 import os
 print(os.getcwd())
-fhandle = open('ch7_flies\mbox-short.txt') 
+fhandle = open('\mbox-short.txt') 
 print(fhandle) 
 #use \n to a new line
 #在交互模式中若 x = 'aaa\nbbb'则输入x会返回aaa\nbbb，而print(x)会返回aaa
